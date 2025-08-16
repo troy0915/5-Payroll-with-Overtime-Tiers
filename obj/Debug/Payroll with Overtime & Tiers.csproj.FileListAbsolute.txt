@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\bin\Debug\Payroll with Overtime & Tiers.exe.config
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\bin\Debug\Payroll with Overtime & Tiers.exe
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\bin\Debug\Payroll with Overtime & Tiers.pdb
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\obj\Debug\Payroll with Overtime & Tiers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\obj\Debug\Payroll with Overtime & Tiers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\obj\Debug\Payroll with Overtime & Tiers.exe
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\obj\Debug\Payroll with Overtime & Tiers.pdb
+C:\Users\HP\source\repos\Payroll with Overtime & Tiers\obj\Debug\Payroll with Overtime & Tiers.exe.config
